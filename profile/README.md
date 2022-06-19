@@ -2,7 +2,7 @@
 
 ![RmVerse](Resources/RmVerse-White.png)
 
-![RmVerseV](Resources/rmdust-start.mp4)
+![RmVerseV](Resources/rmdust-start.gif)
 
 
 
